@@ -8,4 +8,8 @@ This tool serves as a "first-look" utility that:
 * Generates a suite of visualizations (Heatmaps, Histograms, Boxplots).
 * Exports insights to a structured directory for immediate analysis.
 
-#T
+# Tech Stack
+* Language: Python
+* Data Manipulation: Pandas, NumPy
+* Visualization: Seaborn, Matplotlib
+
