@@ -1,4 +1,6 @@
 # 📉 Linear Regression from Scratch (NumPy)
+# Project #2: NumPy Gradient Descent Regressor
+
 A pure-math implementation of the Linear Regression algorithm using Gradient Descent. This project avoids high-level ML libraries like Scikit-Learn to demonstrate a fundamental understanding of how models optimize weights through loss minimization.
 ## 🧠 The Theory
 Linear Regression models the relationship between a dependent variable ($y$) and one or more independent variables ($X$) by fitting a linear equation to observed data.
